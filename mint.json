@@ -33,14 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Store",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://store.para.ac"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/parareselling"
     },
     {
       "name": "Blog",
