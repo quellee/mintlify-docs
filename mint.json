@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Store",
-      "icon": "fa-solid fa-cart-shopping",
+      "icon": "shopping",
       "url": "https://store.para.ac"
     },
     {
