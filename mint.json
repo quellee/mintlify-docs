@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Para Selling",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -26,61 +26,50 @@
     "url": "https://store.para.ac"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
   ],
   "anchors": [
-    {
-      "name": "Store",
-      "icon": "book",
-      "url": "https://store.para.ac"
-    },
-    {
-      "name": "Discord",
-      "icon": "discord",
-      "url": "https://discord.gg/parareselling"
-    }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Overview",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "EAFC",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "eafc/cheat",
+        "eafc/sniper",
+        "eafc/coins"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "GTA V",
       "pages": [
-        "api-reference/introduction"
+        "gta/1337",
+        "gta/skript",
+        "gta/hydrogen",
+        "gta/astra",
+        "gta/acc"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "R6S",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "r6s/klar"
+      ]
+    },
+    {
+      "group": "Others",
+      "pages": [
+        "others/23h2",
+        "others/security"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/parareselling",
+    "website": "https://store.para.ac"
   }
 }
