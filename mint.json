@@ -41,11 +41,6 @@
       "name": "Discord",
       "icon": "discord",
       "url": "https://discord.gg/parareselling"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
